@@ -2,5 +2,7 @@
 name = "testing-publish-from-gh-release"
 version = "0.1.0"
 edition = "2021"
+description = "Something"
+license = "Apache-2.0"
 
 [dependencies]
